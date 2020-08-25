@@ -16,7 +16,6 @@
 <br />
 
 ### Languages and Tools:
-https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg
 
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
