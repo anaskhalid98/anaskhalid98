@@ -2,7 +2,7 @@
 
 ## I am a software engineering student at ENSIAS Rabat
 
-- 🔭 I’m currently a second year software engineering student 
+- 🔭 I’m currently a third year software engineering student 
 - 😜 I speak Java and JS 
 - 👯 I’m looking to collaborate with other content creators
 - 🏐 I love playing volleyball and video games !
